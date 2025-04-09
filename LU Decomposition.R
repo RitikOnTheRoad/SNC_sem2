@@ -1,5 +1,6 @@
-m1=matrix(c(2,4,6,8,1,3,2,4,3,8,5,7,2,6,3,9),byrow = T,ncol=4)
+#Only works for invertible square matrices with non zero digonal elements.
 
+m1=matrix(c(2,4,6,8,1,3,2,4,3,8,5,7,2,6,3,9),byrow = T,ncol=4)
 m1
 
 
